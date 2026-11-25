@@ -1,0 +1,210 @@
+[
+ {
+  "file": "assets/images/smile-teal.webp",
+  "provider": "unsplash",
+  "id": "4lxmfcXKWc4",
+  "source": "https://unsplash.com/photos/a-close-up-of-a-woman-with-a-smile-on-her-face-4lxmfcXKWc4",
+  "author": "Kamal Hoseinianzade",
+  "license": "Unsplash License",
+  "downloaded": "2026-11-25",
+  "size": [
+   1600,
+   1067
+  ]
+ },
+ {
+  "file": "assets/images/laugh-outdoor.webp",
+  "provider": "unsplash",
+  "id": "u68jZr7ky0I",
+  "source": "https://unsplash.com/photos/woman-smiling-wearing-white-top-u68jZr7ky0I",
+  "author": "Connor Wilkins",
+  "license": "Unsplash License",
+  "downloaded": "2026-11-25",
+  "size": [
+   1280,
+   1600
+  ]
+ },
+ {
+  "file": "assets/images/dentist-green.webp",
+  "provider": "unsplash",
+  "id": "9Gw9XCuazuY",
+  "source": "https://unsplash.com/photos/a-person-standing-next-to-a-person-lying-on-a-bed-9Gw9XCuazuY",
+  "author": "Ozkan Guner",
+  "license": "Unsplash License",
+  "downloaded": "2026-11-25",
+  "size": [
+   1067,
+   1600
+  ]
+ },
+ {
+  "file": "assets/images/waiting-room.webp",
+  "provider": "unsplash",
+  "id": "jH05wxjmAWE",
+  "source": "https://unsplash.com/photos/woman-sitting-in-a-modern-waiting-room-reading-jH05wxjmAWE",
+  "author": "Caroline Badran",
+  "license": "Unsplash License",
+  "downloaded": "2026-11-25",
+  "size": [
+   1100,
+   1600
+  ]
+ },
+ {
+  "file": "assets/images/hallway.webp",
+  "provider": "unsplash",
+  "id": "BI3EB22Wwng",
+  "source": "https://unsplash.com/photos/hallway-with-white-walls-and-painting-BI3EB22Wwng",
+  "author": "jason hu",
+  "license": "Unsplash License",
+  "downloaded": "2026-11-25",
+  "size": [
+   1600,
+   1067
+  ]
+ },
+ {
+  "file": "assets/images/chair-window.webp",
+  "provider": "unsplash",
+  "id": "e7MJLM5VGjY",
+  "source": "https://unsplash.com/photos/modern-dental-office-with-chair-and-equipment-e7MJLM5VGjY",
+  "author": "Benyamin Bohlouli",
+  "license": "Unsplash License",
+  "downloaded": "2026-11-25",
+  "size": [
+   1600,
+   1070
+  ]
+ },
+ {
+  "file": "assets/images/tools-hand.webp",
+  "provider": "unsplash",
+  "id": "1lbvRjeF2JE",
+  "source": "https://unsplash.com/photos/person-holding-green-and-black-wire-1lbvRjeF2JE",
+  "author": "Caroline LM",
+  "license": "Unsplash License",
+  "downloaded": "2026-11-25",
+  "size": [
+   1600,
+   1200
+  ]
+ },
+ {
+  "file": "assets/images/loupes.webp",
+  "provider": "unsplash",
+  "id": "hl6uG9cHW5A",
+  "source": "https://unsplash.com/photos/dentists-performing-procedure-in-clinic-hl6uG9cHW5A",
+  "author": "Jonathan Borba",
+  "license": "Unsplash License",
+  "downloaded": "2026-11-25",
+  "size": [
+   1067,
+   1600
+  ]
+ },
+ {
+  "file": "assets/images/xray.webp",
+  "provider": "unsplash",
+  "id": "EiQmC6c4chk",
+  "source": "https://unsplash.com/photos/dentist-examining-dental-x-rays-on-light-board-EiQmC6c4chk",
+  "author": "Harold Hisona",
+  "license": "Unsplash License",
+  "downloaded": "2026-11-25",
+  "size": [
+   1600,
+   1200
+  ]
+ },
+ {
+  "file": "assets/images/consult-bright.webp",
+  "provider": "unsplash",
+  "id": "Bg81yWKZlMg",
+  "source": "https://unsplash.com/photos/dentist-talking-to-patient-in-a-modern-dental-office-Bg81yWKZlMg",
+  "author": "Harold Hisona",
+  "license": "Unsplash License",
+  "downloaded": "2026-11-25",
+  "size": [
+   1800,
+   1350
+  ]
+ },
+ {
+  "file": "assets/images/dentist-smile.webp",
+  "provider": "unsplash",
+  "id": "t5o3tjnaFMk",
+  "source": "https://unsplash.com/photos/a-man-smiling-at-another-man-t5o3tjnaFMk",
+  "author": "D Dental Office",
+  "license": "Unsplash License",
+  "downloaded": "2026-11-25",
+  "size": [
+   1800,
+   1200
+  ]
+ },
+ {
+  "file": "assets/images/tablet.webp",
+  "provider": "unsplash",
+  "id": "T-iifFLk3KU",
+  "source": "https://unsplash.com/photos/woman-in-blue-denim-jeans-holding-black-tablet-computer-T-iifFLk3KU",
+  "author": "Quang Tri NGUYEN",
+  "license": "Unsplash License",
+  "downloaded": "2026-11-25",
+  "size": [
+   1800,
+   1200
+  ]
+ },
+ {
+  "file": "assets/images/scan.webp",
+  "provider": "unsplash",
+  "id": "Bd0RmCsJOCc",
+  "source": "https://unsplash.com/photos/a-man-and-a-woman-using-a-touch-screen-device-Bd0RmCsJOCc",
+  "author": "Filip Rankovic Grobgaard",
+  "license": "Unsplash License",
+  "downloaded": "2026-11-25",
+  "size": [
+   1439,
+   1800
+  ]
+ },
+ {
+  "file": "assets/images/smile-warm.webp",
+  "provider": "unsplash",
+  "id": "G5OovGwJuhg",
+  "source": "https://unsplash.com/photos/womens-white-turtleneck-top-G5OovGwJuhg",
+  "author": "Yuvraj Singh",
+  "license": "Unsplash License",
+  "downloaded": "2026-11-25",
+  "size": [
+   1800,
+   1200
+  ]
+ },
+ {
+  "file": "assets/images/smile-look.webp",
+  "provider": "unsplash",
+  "id": "yIitNO2Bgdo",
+  "source": "https://unsplash.com/photos/woman-smiling-face-yIitNO2Bgdo",
+  "author": "Alexander Krivitskiy",
+  "license": "Unsplash License",
+  "downloaded": "2026-11-25",
+  "size": [
+   1200,
+   1800
+  ]
+ },
+ {
+  "file": "assets/images/reception.webp",
+  "provider": "unsplash",
+  "id": "XFAjgdedXhs",
+  "source": "https://unsplash.com/photos/reception-desk-with-computer-and-printer-XFAjgdedXhs",
+  "author": "Vagaro",
+  "license": "Unsplash License",
+  "downloaded": "2026-11-25",
+  "size": [
+   1200,
+   1800
+  ]
+ }
+]
